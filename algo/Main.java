@@ -1,6 +1,6 @@
 package algo;
 
-import algo.sorting.*;
+import algo.sorting.MergeSort;
 
 public class Main {
 
