@@ -1,4 +1,4 @@
-package algo.sorting;
+package practice.src.main.java.algo.sorting;
 
 public class MergeSort {
 
