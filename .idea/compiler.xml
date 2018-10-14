@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="hackerRank" />
+        <module name="leetCode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="courseraCourses" target="1.5" />
+      <module name="hackerRank" target="1.5" />
+      <module name="leetCode" target="1.5" />
       <module name="practice" target="1.5" />
       <module name="ProjectEuler" target="1.5" />
     </bytecodeTargetLevel>

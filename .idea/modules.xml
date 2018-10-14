@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Programs.iml" filepath="$PROJECT_DIR$/Programs.iml" />
       <module fileurl="file://$PROJECT_DIR$/courseraCourses/courseraCourses.iml" filepath="$PROJECT_DIR$/courseraCourses/courseraCourses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerRank/hackerRank.iml" filepath="$PROJECT_DIR$/hackerRank/hackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetCode/leetCode.iml" filepath="$PROJECT_DIR$/leetCode/leetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/projectEuler/projectEuler.iml" filepath="$PROJECT_DIR$/projectEuler/projectEuler.iml" />
     </modules>
