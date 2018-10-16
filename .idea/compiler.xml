@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hackerRank" />
         <module name="leetCode" />
+        <module name="spring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="leetCode" target="1.5" />
       <module name="practice" target="1.5" />
       <module name="ProjectEuler" target="1.5" />
+      <module name="spring" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

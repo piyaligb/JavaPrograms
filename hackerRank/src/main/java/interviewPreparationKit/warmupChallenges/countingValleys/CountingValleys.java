@@ -6,14 +6,15 @@ import java.util.Scanner;
 public class CountingValleys {
     // Complete the countingValleys function below.
     private static int countingValleys(int n, String s) {
-        int vallyCount = 1;
-        int len = s.length();
-        for(int i=0; i<len;i++){
-            if(s.charAt(i) == 'U'){
+        int vallyCount = 0;
+        int lvl = 0;
+        for(char c : s.toCharArray()){
+            if(c == 'U') ++lvl;
+            else if(c == 'D') --lvl;
+
+            // if we just came UP to sea level
+            if(lvl == 0 && c == 'U')
                 ++vallyCount;
-            }else if(s.charAt(i) == 'D'){
-                --vallyCount;
-            }
         }
         return vallyCount;
     }

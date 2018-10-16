@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/leetCode/leetCode.iml" filepath="$PROJECT_DIR$/leetCode/leetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/projectEuler/projectEuler.iml" filepath="$PROJECT_DIR$/projectEuler/projectEuler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
     </modules>
   </component>
 </project>
